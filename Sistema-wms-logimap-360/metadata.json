@@ -1,0 +1,7 @@
+{
+  "name": "3_A WMS LogiMap 360",
+  "description": "Sistema profissional de controle de estoque com mapeamento logístico, registro de entradas/saídas e relatórios detalhados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
